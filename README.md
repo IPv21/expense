@@ -20,7 +20,7 @@
   ## Dependencies 
   React
   ## Installation
-  n/a
+  Click "Install" in the address bar when prompted. 
   ## Contributors
   IPv21, Brad Traversy
   ## Testing
